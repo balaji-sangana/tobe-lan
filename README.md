@@ -14,7 +14,7 @@
   <a href="https://github.com/balaji-sangana/tobe-lan/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/balaji-sangana/tobe-lan?style=for-the-badge" />
   </a>
-  <a href="https://tobelab.github.io/tobelan/">
+  <a href="https://tobelan.github.io/tobelan/">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
   </a>
 </p>
@@ -30,7 +30,7 @@ It uses a **JavaScript-based interpreter** that emulates TOBE execution, making 
 - Practicing logic building  
 - Rapid scripting & experimentation  
 
-🌐 **Live Website:** https://tobelab.github.io/tobelan/  
+🌐 **Live Website:** https://tobelan.github.io/tobelan/  
 📦 **GitHub Repository:** https://github.com/balaji-sangana/tobe-lan.git  
 
 ---
@@ -89,3 +89,9 @@ Offensive Security Researcher | Penetration Tester
 🌐 Portfolio: https://balajisangana.pages.dev
 
 🔗 LinkedIn: https://www.linkedin.com/in/balaji-sangana
+
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
