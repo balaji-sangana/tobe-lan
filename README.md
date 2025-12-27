@@ -64,10 +64,10 @@ TOBE is a **simple, indentation-based programming language** designed for beginn
 ---
 
 ### ▶️ Run Locally
-'''
-git clone https://github.com/balaji-sangana/tobe-lan.git
-cd tobe-lan
-'''
+```bash
+   git clone https://github.com/balaji-sangana/tobe-lan.git
+   cd tobe-lan
+```
 
 - Open index.html in your browser.
 ---
